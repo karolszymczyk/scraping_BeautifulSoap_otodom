@@ -1,4 +1,4 @@
 # scraping_BeautifulSoap_otodom
 scraping otodom by Beautiful Soap
 
-Using Beautiful Sopa acraper to download data from www.otodom.pl
+Beautiful Soap package to scraper data from www.otodom.pl
